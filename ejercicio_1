@@ -1,0 +1,5 @@
+edad = input("Que edad tienes?")
+fecha = input("En que año estamos?")
+
+for n in range(n, edad):
+  print("Tienes ",n," anos en ", fecha-(edad-n))
